@@ -82,7 +82,7 @@
 				<artifactId>javafx-maven-plugin</artifactId>
 				<version>0.0.6</version>
 				<configuration>
-					<mainClass>edu.westga.devops.a7.Main</mainClass>
+					<mainClass>edu.westga.devops.lab02.Main</mainClass>
 				</configuration>
 			</plugin>
 			
@@ -95,7 +95,7 @@
 							<addClasspath>true</addClasspath>
 							<mainClass>
 								<!-- The main class for launching the app -->
-								edu.westga.devops.a7.Main
+								edu.westga.devops.lab02.Main
 							</mainClass>
 						</manifest>
 					</archive>
@@ -135,8 +135,8 @@
 								<rule>
 									<element>PACKAGE</element>
 									<includes>
-										<include>edu.westga.devops.a7.model</include>
-										<include>edu.westga.devops.a7.view</include>
+										<include>edu.westga.devops.lab02.model</include>
+										<include>edu.westga.devops.lab02.view</include>
 									</includes>
 									<limits>
 										<limit>
