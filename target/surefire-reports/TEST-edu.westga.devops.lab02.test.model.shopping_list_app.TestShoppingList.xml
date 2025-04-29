@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="edu.westga.devops.lab02.view.MainWindowTest" time="7.532" tests="6" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="edu.westga.devops.lab02.test.model.shopping_list_app.TestShoppingList" time="0.08" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -59,10 +59,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="updateQuantity_invalidQuantity_quantityNotUpdated" classname="edu.westga.devops.lab02.view.MainWindowTest" time="2.43"/>
-  <testcase name="addItem_validName_itemAddedToList" classname="edu.westga.devops.lab02.view.MainWindowTest" time="2.193"/>
-  <testcase name="addItem_emptyName_errorShown" classname="edu.westga.devops.lab02.view.MainWindowTest" time="1.669"/>
-  <testcase name="updateQuantity_noItemSelected_errorShown" classname="edu.westga.devops.lab02.view.MainWindowTest" time="0.409"/>
-  <testcase name="updateQuantity_nonNumericInput_quantityNotUpdated" classname="edu.westga.devops.lab02.view.MainWindowTest" time="0.416"/>
-  <testcase name="updateQuantity_validQuantity_quantityUpdated" classname="edu.westga.devops.lab02.view.MainWindowTest" time="0.343"/>
+  <testcase name="testShoppingListAppInitialization" classname="edu.westga.devops.lab02.test.model.shopping_list_app.TestShoppingList" time="0.056"/>
 </testsuite>
