@@ -1,4 +1,4 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
 Gearhart_Lab02,edu.westga.devops.lab02,Main,27,0,0,0,9,0,3,0,3,0
-Gearhart_Lab02,edu.westga.devops.lab02.view,MainWindow,175,0,10,0,47,0,12,0,7,0
+Gearhart_Lab02,edu.westga.devops.lab02.view,MainWindow,4,171,1,9,1,46,1,11,0,7
 Gearhart_Lab02,edu.westga.devops.lab02.model,ShoppingListApp,3,0,0,0,1,0,1,0,1,0

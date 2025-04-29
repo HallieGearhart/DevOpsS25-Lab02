@@ -15,6 +15,12 @@
 	
 	<dependencies>
 		<!-- JavaFX -->
+		<dependency>
+			<groupId>org.openjfx</groupId>
+			<artifactId>javafx-swing</artifactId>
+			<version>15.0.1</version>
+			<scope>test</scope>
+		</dependency>
 		<dependency> 
 			<groupId>org.openjfx</groupId>
 			<artifactId>javafx-controls</artifactId>
