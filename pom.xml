@@ -4,7 +4,7 @@
 	
 	<!-- project info -->
 	<groupId>edu.westga</groupId>
-	<artifactId>Gearhart Lab 02</artifactId>
+	<artifactId>Gearhart_Lab02</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	
 	<properties>

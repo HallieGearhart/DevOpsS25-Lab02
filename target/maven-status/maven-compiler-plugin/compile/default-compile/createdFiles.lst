@@ -1,4 +1,3 @@
-edu\westga\devops\a7\Main.class
-edu\westga\devops\a7\model\GuessReport.class
-edu\westga\devops\a7\model\HiLowGame.class
-edu\westga\devops\a7\view\MainWindow.class
+edu\westga\devops\lab02\Main.class
+edu\westga\devops\lab02\view\MainWindow.class
+edu\westga\devops\lab02\model\ShoppingListApp.class
