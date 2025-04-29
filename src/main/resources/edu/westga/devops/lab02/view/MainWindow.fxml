@@ -14,7 +14,7 @@
       <Button fx:id="removeItemButton" layoutX="268.0" layoutY="311.0" mnemonicParsing="false" onAction="#handleRemoveItem" text="Remove" />
       <Button fx:id="addItemButton" layoutX="70.0" layoutY="311.0" mnemonicParsing="false" onAction="#handleAddItem" text="Add" />
       <Button fx:id="updateQuantityButton" layoutX="464.0" layoutY="311.0" mnemonicParsing="false" onAction="#handleUpdateQuantity" text="Update" />
-      <Label fx:id="errorLabel" layoutX="283.0" layoutY="28.0" text="Label" />
+      <Label fx:id="errorLabel" layoutX="283.0" layoutY="28.0" />
       <Label layoutX="70.0" layoutY="103.0" text="Item Name:" />
       <Label layoutX="73.0" layoutY="174.0" text="Quantity of Item:" />
    </children>

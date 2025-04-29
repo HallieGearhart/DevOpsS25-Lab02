@@ -15,7 +15,7 @@ import javafx.scene.Scene;
  * @version Spring 2025
  */
 public class Main extends Application {
-	public static final String WINDOW_TITLE = "Shopping List App";
+	public static final String WINDOW_TITLE = "Hallie Gearhart- Shopping List App";
 	public static final String GUI_RESOURCE = "view/MainWindow.fxml";
 
 	/**
